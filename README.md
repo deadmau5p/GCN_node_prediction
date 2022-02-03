@@ -1,6 +1,6 @@
 # Graph neural network
 
-I constructed GNN using PyG (pytorch geometric) and applied to (OGB) dataset "ogbn-arxiv".
+I constructed GNN using PyG (pytorch geometric) and applied to (OGB) dataset "ogbn-arxiv". I used GCN. https://arxiv.org/pdf/1609.02907.pdf
 
 ## OGBN-Arxiv
 
